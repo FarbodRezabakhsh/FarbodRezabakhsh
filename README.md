@@ -1,16 +1,18 @@
-## Hi there 👋
+# About Me
 
-<!--
-**FarbodRezabakhsh/FarbodRezabakhsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a passionate Django developer with experience in building RESTful APIs using Django Rest Framework. I have a solid understanding of relational databases, particularly PostgreSQL and MySQL, and I also have a foundational knowledge of NoSQL databases. 
 
-Here are some ideas to get you started:
+In addition to my development skills, I am comfortable working in Linux environments, which enhances my workflow and efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me at [farbod.rezabakhsh80@gmail.com](mailto:farbod.rezabakhsh80@gmail.com) for collaboration or inquiries!
+
+## Skills
+- Python & Django & Django Rest Framework 
+- PostgreSQL & MySQL
+- Basic knowledge of NoSQL databases
+- Linux
+- Docker
+
+## Projects
+- [Your Project Name](#) - Brief description of your project
+- [Another Project Name](#) - Brief description of another project
