@@ -1,4 +1,4 @@
-# About Me
+
 
 👋 Hello! I'm a passionate Django developer with experience in building RESTful APIs using Django Rest Framework. I have a solid understanding of relational databases, particularly PostgreSQL and MySQL, and I also have a foundational knowledge of NoSQL databases. 
 
