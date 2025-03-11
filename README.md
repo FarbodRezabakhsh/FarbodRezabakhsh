@@ -7,11 +7,14 @@
 ✉️ Feel free to reach out to me at [farbod.rezabakhsh80@gmail.com](mailto:farbod.rezabakhsh80@gmail.com) for collaboration or inquiries!
 
 ## Skills
-- Python & Django & Django Rest Framework 
+- Python & Django & Django Rest Framework
+- FastAPI
+- Numpy & Pandas
 - PostgreSQL & MySQL
-- Basic knowledge of NoSQL databases
+- Basic knowledge of NoSQL databases (Redis, MongoDB)
 - Linux
 - Docker
+  
 
 ## Projects
 - [doctor-queue-system](#) 
